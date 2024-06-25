@@ -27,43 +27,6 @@ This is a simple stock price application built with Streamlit and Docker. The ap
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/alifadl009/Simple-Stock-Price-App.git
-cd simple-stock-price-app
-```
-
-Certainly! Here is a sample README.md file for your GitHub repository:
-
-markdown
-Copy code
-# Simple Stock Price App
-
-This is a simple stock price application built with Streamlit and Docker. The app allows users to select a stock ticker symbol, enter a date range, and view the stock's closing price and volume over that period.
-
-## Features
-
-- Display stock closing prices and volume.
-- Select stock ticker symbols from a predefined list.
-- Choose start and end dates for historical data.
-
-## Technologies Used
-
-- Python
-- Streamlit
-- yfinance
-- pandas
-- Docker
-
-## Getting Started
-
-### Prerequisites
-
-- Docker installed on your machine.
-
-### Installation
-
-1. Clone the repository:
-
-```bash
 git clone https://github.com/your-username/simple-stock-price-app.git
 cd simple-stock-price-app
 ```
