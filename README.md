@@ -1,5 +1,8 @@
 # Simple Stock Price App
 
+<img src="1.png">
+<img src="2.png">
+
 This is a simple stock price application built with Streamlit and Docker. The app allows users to select a stock ticker symbol, enter a date range, and view the stock's closing price and volume over that period.
 
 ## Features
