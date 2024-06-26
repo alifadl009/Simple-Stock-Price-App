@@ -30,7 +30,7 @@ This is a simple stock price application built with Streamlit and Docker. The ap
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/simple-stock-price-app.git
+git clone https://github.com/alifadl009/Simple-Stock-Price-App.git
 cd simple-stock-price-app
 ```
 
